@@ -18,6 +18,10 @@ the mod video's url of youtube
 
 * 
 
+this mod screenshot
+
+* ![](https://github.com/kamisama6/modz/blob/master/com.modz.pvz2/screenshot/modz.jpg)
+
 
 ## About
 

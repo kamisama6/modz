@@ -2,7 +2,7 @@
 
 Modz download url https://github.com/kamisama6/modz/raw/master/com.modz.simsfreeplay/com.modz.simsfreeplay.modz
 
-the game's url of google play 
+the game's url
 
 * http://play.google.com/store/apps/details?id=com.ea.games.simsfreeplay_na
 

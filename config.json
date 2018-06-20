@@ -1,0 +1,142 @@
+{
+
+	"author": "kamisama6",
+	"id": "kamisama6-10002",
+	"introduce": "コレクションしたい！でもお金がない！",
+	"modzList": [{
+		"modz": "https://github.com/kamisama6/modz/raw/master/com.modz.baba/com.modz.baba.modz",
+		"readme": "https://github.com/kamisama6/modz/raw/master/com.modz.baba/README.md",
+		"desc": "i have many gem and pearls",
+		"name": "wealthy person",
+		"pkgName": "com.modz.baba",
+		"versionCode": 16,
+		"versionName": "1.0.16",
+		"target": "com.rovio.baba",
+		"support": "2190035,2170013,2200016",
+		"gameName": "Angry Birds 2",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 16,
+			"versionName": "1.0.16",
+			"whatsNew": "support game version  2.20.16(2200016)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/kamisama6/modz/raw/master/com.modz.baba/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			"https://www.youtube.com/watch?v=i7wNVigWMTI"
+		],
+		"gameDownloadUrl": [
+			"http://play.google.com/store/apps/details?id=com.rovio.baba",
+			"https://apkpure.com/angry-birds-2/com.rovio.baba"
+		]
+	}, {
+		"modz": "https://github.com/kamisama6/modz/raw/master/com.modz.subwaysurf/com.modz.subwaysurf.modz",
+		"readme": "https://github.com/kamisama6/modz/raw/master/com.modz.subwaysurf/README.md",
+		"desc": "unlock all Characters,Boards,you can double jump,no board CD",
+		"name": "i'm super boy",
+		"pkgName": "com.modz.subwaysurf",
+		"versionCode": 17,
+		"versionName": "1.0.17",
+		"target": "com.kiloo.subwaysurf",
+		"support": "*",
+		"gameName": "subwaysurf",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 17,
+			"versionName": "1.0.17",
+			"whatsNew": "support game version 1.88.0(1030) "
+		}],
+		"screenshotUrl": [
+			"https://github.com/kamisama6/modz/raw/master/com.modz.baba/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			"https://www.youtube.com/watch?v=eibpP_V_jak"
+		],
+		"gameDownloadUrl": [
+			"http://play.google.com/store/apps/details?id=com.kiloo.subwaysurf",
+			"https://apkpure.com/subway-surfers-android/com.kiloo.subwaysurf"
+		]
+	}, {
+		"modz": "https://github.com/kamisama6/modz/raw/master/com.modz.pvz2/com.modz.pvz2.modz",
+		"readme": "https://github.com/kamisama6/modz/raw/master/com.modz.pvz2/README.md",
+		"desc": "Plant Food!Pant CD ! Sunshine!All is what u want !",
+		"name": "i'm god of plants!",
+		"pkgName": "com.modz.pvz2",
+		"versionCode": 21,
+		"versionName": "1.0.21",
+		"target": "com.ea.game.pvz2_na",
+		"support": "337",
+		"gameName": "Plants vs Zombies2",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 21,
+			"versionName": "1.0.21",
+			"whatsNew": "support game version 6.7.1(325) "
+		}],
+		"screenshotUrl": [
+			"https://github.com/kamisama6/modz/raw/master/com.modz.pvz2/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			"https://www.youtube.com/watch?v=eibpP_V_jak"
+		],
+		"gameDownloadUrl": [
+			"http://play.google.com/store/apps/details?id=com.ea.game.pvz2_na",
+			"https://apkpure.com/subway-surfers-android/com.ea.game.pvz2_na"
+		]
+	}, {
+		"modz": "https://github.com/kamisama6/modz/raw/master/com.modz.simsfreeplay/com.modz.simsfreeplay.modz",
+		"readme": "https://github.com/kamisama6/modz/raw/master/com.modz.simsfreeplay/README.md",
+		"desc": "Invincible and Boost",
+		"name": "I will not die",
+		"pkgName": "com.modz.simsfreeplay",
+		"versionCode": 17,
+		"versionName": "1.0.17",
+		"target": "com.imangi.templerun2",
+		"support": "*",
+		"gameName": "templerun2",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 17,
+			"versionName": "1.0.17",
+			"whatsNew": "support game version 1.48.0(183) "
+		}],
+		"screenshotUrl": [
+			"https://github.com/kamisama6/modz/raw/master/com.modz.templerun2/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			"https://www.youtube.com/watch?v=eibpP_V_jak"
+		],
+		"gameDownloadUrl": [
+			"http://play.google.com/store/apps/details?id=com.imangi.templerun2",
+			"https://apkpure.com/subway-surfers-android/com.imangi.templerun2"
+		]
+	}, {
+		"modz": "https://github.com/kamisama6/modz/raw/master/com.modz.simsfreeplay/com.modz.simsfreeplay.modz",
+		"readme": "https://github.com/kamisama6/modz/raw/master/com.modz.simsfreeplay/README.md",
+		"desc": "i have many simoleons and Lifestyle Points!",
+		"name": "wealthy person",
+		"pkgName": "com.modz.simsfreeplay",
+		"versionCode": 24,
+		"versionName": "1.0.24",
+		"target": "com.ea.games.simsfreeplay_na",
+		"support": "5038002",
+		"gameName": "simsfreeplay",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 24,
+			"versionName": "1.0.24",
+			"whatsNew": "support game version (5038002) "
+		}],
+		"screenshotUrl": [
+			"https://github.com/kamisama6/modz/raw/master/com.modz.simsfreeplay/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"http://play.google.com/store/apps/details?id=com.ea.games.simsfreeplay_na",
+			"https://apkpure.com/subway-surfers-android/com.ea.games.simsfreeplay_na"
+		]
+	}]
+}

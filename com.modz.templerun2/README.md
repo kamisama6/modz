@@ -18,7 +18,7 @@ the mod video's url of youtube
 
 * https://www.youtube.com/watch?v=kbaOlh1PavA
 
-![](https://github.com/kamisama6/modz/blob/master/com.modz.templerun2/screenshot/modz.jpg)
+![](https://github.com/kamisama6/modz/blob/master/com.modz.templerun2/screenshot/modz1.jpg)
 
 ## About
 

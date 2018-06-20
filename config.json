@@ -85,11 +85,11 @@
 			"https://apkpure.com/subway-surfers-android/com.ea.game.pvz2_na"
 		]
 	}, {
-		"modz": "https://github.com/kamisama6/modz/raw/master/com.modz.simsfreeplay/com.modz.simsfreeplay.modz",
-		"readme": "https://github.com/kamisama6/modz/raw/master/com.modz.simsfreeplay/README.md",
+		"modz": "https://github.com/kamisama6/modz/raw/master/com.modz.templerun2/com.modz.templerun2.modz",
+		"readme": "https://github.com/kamisama6/modz/raw/master/com.modz.templerun2/README.md",
 		"desc": "Invincible and Boost",
 		"name": "I will not die",
-		"pkgName": "com.modz.simsfreeplay",
+		"pkgName": "com.modz.templerun2",
 		"versionCode": 17,
 		"versionName": "1.0.17",
 		"target": "com.imangi.templerun2",

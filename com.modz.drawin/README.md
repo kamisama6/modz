@@ -8,7 +8,6 @@ the game's url
 
 * http://play.google.com/store/apps/details?id=com.supertapx.drawin
 
-* https://apkpure.com/angry-birds-2/com.rovio.baba
 
 To use modz, you need to download doddercat app first, Dodder Cat download url at:
 

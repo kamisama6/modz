@@ -138,5 +138,140 @@
 			"http://play.google.com/store/apps/details?id=com.ea.games.simsfreeplay_na",
 			"https://apkpure.com/subway-surfers-android/com.ea.games.simsfreeplay_na"
 		]
-	}]
+	},{
+		"modz": "https://github.com/kamisama6/modz/raw/master/com.modz.game.cash/com.modz.game.cash.modz",
+		"readme": "https://github.com/kamisama6/modz/raw/master/com.modz.game.cash/README.md",
+		"desc": "add coins and no ads",
+		"name": "wealthy person",
+		"pkgName": "com.modz.game.cash",
+		"versionCode": 1,
+		"versionName": "1.0.1",
+		"target": "com.fortune.sim.game.cash",
+		"support": "*",
+		"gameName": "Hello Stars",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 1,
+			"whatsNew": "support game version (*)",
+			"versionName": "1.0.1"
+		}],
+		"screenshotUrl": [
+			"https://github.com/kamisama6/modz/raw/master/kamisama6/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"http://play.google.com/store/apps/details?id=com.supertapx.com.fortune.sim.game.cash"
+		]
+	},
+	{
+		"modz": "https://github.com/kamisama6/modz/raw/master/com.modz.drawin/com.modz.drawin.modz",
+		"readme": "https://github.com/kamisama6/modz/raw/master/com.modz.drawin/README.md",
+		"desc": "No Ads",
+		"name": "No Ads",
+		"pkgName": "com.modz.drawin",
+		"versionCode": 1,
+		"versionName": "1.0.1",
+		"target": "com.supertapx.drawin",
+		"support": "*",
+		"gameName": "Draw IN",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 1,
+			"whatsNew": "support game version (*)",
+			"versionName": "1.0.1"
+		}],
+		"screenshotUrl": [
+			"https://github.com/kamisama6/modz/raw/master/kamisama6/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"http://play.google.com/store/apps/details?id=com.supertapx.drawin"
+		]
+	},
+	{
+		"modz": "https://github.com/kamisama6/modz/raw/master/com.modz.lovedots/com.modz.lovedots.modz",
+		"readme": "https://github.com/kamisama6/modz/raw/master/com.modz.lovedots/README.md",
+		"desc": "infinity gold",
+		"name": "wealthy person",
+		"pkgName": "com.modz.lovedots",
+		"versionCode": 1,
+		"versionName": "1.0.1",
+		"target": "com.supertapx.lovedots",
+		"support": "*",
+		"gameName": "LoveBall",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 1,
+			"whatsNew": "support game version (*)",
+			"versionName": "1.0.1"
+		}],
+		"screenshotUrl": [
+			"https://github.com/kamisama6/modz/raw/master/kamisama6/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"http://play.google.com/store/apps/details?id=com.supertapx.lovedots"
+		]
+	},
+	{
+		"modz": "https://github.com/kamisama6/modz/raw/master/com.modz.slingdrift/com.modz.slingdrift.modz",
+		"readme": "https://github.com/kamisama6/modz/raw/master/com.modz.slingdrift/README.md",
+		"desc": "infinity diamond",
+		"name": "wealthy person",
+		"pkgName": "com.modz.slingdrift",
+		"versionCode": 1,
+		"versionName": "1.0.1",
+		"target": "com.rubygames.slingdrift",
+		"support": "*",
+		"gameName": "Sling Drift",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 1,
+			"whatsNew": "support game version (*)",
+			"versionName": "1.0.1"
+		}],
+		"screenshotUrl": [
+			"https://github.com/kamisama6/modz/raw/master/kamisama6/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"http://play.google.com/store/apps/details?id=com.rubygames.slingdrift"
+		]
+	},
+	{
+		"modz": "https://github.com/kamisama6/modz/raw/master/com.modz.game.connect/com.modz.game.connect.modz",
+		"readme": "https://github.com/kamisama6/modz/raw/master/com.modz.game.connect/README.md",
+		"desc": "infinity diamond",
+		"name": "wealthy person",
+		"pkgName": "com.modz.game.connect",
+		"versionCode": 1,
+		"versionName": "1.0.1",
+		"target": "com.word.puzzle.game.connect",
+		"support": "*",
+		"gameName": "Word Link",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 1,
+			"whatsNew": "support game version (*)",
+			"versionName": "1.0.1"
+		}],
+		"screenshotUrl": [
+			"https://github.com/kamisama6/modz/raw/master/kamisama6/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"http://play.google.com/store/apps/details?id=com.word.puzzle.game.connect"
+		]
+	}
+]
 }

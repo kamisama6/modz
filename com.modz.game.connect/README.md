@@ -22,7 +22,7 @@ the mod video's url of youtube
 
 this mod screenshot
 
-![](https://github.com/kamisama6/modz/blob/master/com.modz.game.connec/screenshot/modz.jpg)
+![](https://github.com/kamisama6/modz/blob/master/com.modz.game.connect/screenshot/modz.jpg)
 
 
 ## About

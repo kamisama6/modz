@@ -8,8 +8,6 @@ the game's url
 
 * http://play.google.com/store/apps/details?id=com.rubygames.slingdrift
 
-* https://apkpure.com/angry-birds-2/com.rovio.baba
-
 To use modz, you need to download doddercat app first, Dodder Cat download url at:
 
 * https://play.google.com/store/apps/details?id=com.dodder.box

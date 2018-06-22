@@ -1,6 +1,8 @@
 # Modz
 
-Modz download url https://github.com/kamisama6/modz/raw/master/com.modz.drawin/com.modz.drawin.modz
+Modz download url 
+
+* https://github.com/kamisama6/modz/raw/master/com.modz.drawin/com.modz.drawin.modz
 
 the game's url
 

@@ -6,7 +6,7 @@ Modz download url
 
 the game's url
 
-* http://play.google.com/store/apps/details?id=com.supertapx.com.fortune.sim.game.cash
+* https://play.google.com/store/apps/details?id=com.fortune.sim.game.cash
 
 To use modz, you need to download doddercat app first, Dodder Cat download url at:
 

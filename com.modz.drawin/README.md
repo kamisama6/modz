@@ -8,6 +8,7 @@ the game's url
 
 * http://play.google.com/store/apps/details?id=com.supertapx.drawin
 
+* https://apkpure.com/draw-in/com.supertapx.drawin
 
 To use modz, you need to download doddercat app first, Dodder Cat download url at:
 

@@ -8,6 +8,8 @@ the game's url
 
 * http://play.google.com/store/apps/details?id=com.word.puzzle.game.connect
 
+* https://apkpure.com/word-link/com.word.puzzle.game.connect
+
 To use modz, you need to download doddercat app first, Dodder Cat download url at:
 
 * https://play.google.com/store/apps/details?id=com.dodder.box

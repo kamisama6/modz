@@ -8,6 +8,8 @@ the game's url
 
 * http://play.google.com/store/apps/details?id=com.supertapx.lovedots
 
+* https://apkpure.com/love-balls/com.supertapx.lovedots
+
 To use modz, you need to download doddercat app first, Dodder Cat download url at:
 
 * https://play.google.com/store/apps/details?id=com.dodder.box

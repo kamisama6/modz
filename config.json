@@ -274,8 +274,8 @@
 				"http://play.google.com/store/apps/details?id=com.word.puzzle.game.connect"
 			]
 		},{
-		"modz": "https://github.com/kamisama6-10002/modz/raw/master/com.modz.bloonstd6/com.modz.bloonstd6.modz",
-		"readme": "https://github.com/kamisama6-10002/modz/raw/master/com.modz.bloonstd6/README.md",
+		"modz": "https://github.com/kamisama6/modz/raw/master/com.modz.bloonstd6/com.modz.bloonstd6.modz",
+		"readme": "https://github.com/kamisama6/modz/raw/master/com.modz.bloonstd6/README.md",
 		"desc": "i have many money and XP!monkey,hero,all unlocked,cool!",
 		"name": "i'm super monkey!",
 		"pkgName": "com.modz.bloonstd6",
@@ -291,7 +291,7 @@
 			"whatsNew": "support game version (*)"
 		}],
 		"screenshotUrl": [
-			"https://github.com/kamisama6-10002/modz/raw/master/com.modz.bloonstd6/screenshot/modz.jpg"
+			"https://github.com/kamisama6/modz/raw/master/com.modz.bloonstd6/screenshot/modz.jpg"
 		],
 		"videoUrl": [
 			""

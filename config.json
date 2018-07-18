@@ -64,16 +64,16 @@
 			"desc": "Plant Food!Pant CD ! Sunshine!All is what u want !",
 			"name": "i'm god of plants!",
 			"pkgName": "com.modz.pvz2",
-			"versionCode": 21,
-			"versionName": "1.0.21",
+			"versionCode": 22,
+			"versionName": "1.0.22",
 			"target": "com.ea.game.pvz2_na",
-			"support": "337",
+			"support": "*",
 			"gameName": "Plants vs Zombies2",
 			"iconUrl": "",
 			"changelog": [{
-				"versionCode": 21,
-				"versionName": "1.0.21",
-				"whatsNew": "support game version 6.7.1(325) "
+				"versionCode": 22,
+				"versionName": "1.0.22",
+				"whatsNew": "support game version *"
 			}],
 			"screenshotUrl": [
 				"https://github.com/kamisama6/modz/raw/master/com.modz.pvz2/screenshot/modz.jpg"

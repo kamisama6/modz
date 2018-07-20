@@ -64,15 +64,15 @@
 			"desc": "Plant Food!Pant CD ! Sunshine!Lock Diamond!health*10!All is what u want !",
 			"name": "i'm god of plants!",
 			"pkgName": "com.modz.pvz2",
-			"versionCode": 22,
-			"versionName": "1.0.22",
+			"versionCode": 23,
+			"versionName": "1.0.23",
 			"target": "com.ea.game.pvz2_na",
 			"support": "*",
 			"gameName": "Plants vs Zombies2",
 			"iconUrl": "",
 			"changelog": [{
-				"versionCode": 22,
-				"versionName": "1.0.22",
+				"versionCode": 23,
+				"versionName": "1.0.23",
 				"whatsNew": "support game version *"
 			}],
 			"screenshotUrl": [
